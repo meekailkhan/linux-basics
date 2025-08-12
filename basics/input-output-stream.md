@@ -123,6 +123,4 @@ grep "kas" < error.txt 1> grep.txt 2> /dev/null
 | `1> grep.txt` | Redirects `stdout` |
 | `2> /dev/null` | Discards `stderr` |
 
----
 
-Let me know if you want to merge this with your previous notes or export the whole thing in PDF, Markdown, or as a ready-to-import Notion page.
